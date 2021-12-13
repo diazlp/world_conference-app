@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was published at [World Conference App](https://world-conference.netlify.app/)
+
 ## Available Scripts
 
 To configure the project after downloading/cloning this repository, first you need to run:
